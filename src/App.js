@@ -1,5 +1,5 @@
 import { Filter } from "./Component/Filter";
-import "./assets/CSS/index.scss"
+import "./assets/SCSS/index.scss"
 
 function App() {
   return (

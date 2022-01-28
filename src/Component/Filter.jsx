@@ -12,7 +12,7 @@ export const Filter = () => {
 		{checked: false, region: "Asia"},
 		{checked: false, region: "Europe"},
 		{checked: false, region: "Africa"},
-		{checked: false, region: "Autralia"},
+		{checked: false, region: "Australia"},
 	]
 
 	return (
